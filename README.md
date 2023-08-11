@@ -37,4 +37,5 @@ Launch one of these modes, **open your browser's developer options (Ctrl + Shift
 ![image](https://github.com/pedrovitorsilva/MinesweeperGuide/assets/85745442/09a506e9-20bb-4011-92c4-04a316ce5524)
 
 - Solved game using tool
+- 
 ![image](https://github.com/pedrovitorsilva/MinesweeperGuide/assets/85745442/ec717de7-d813-4164-b1bd-e95ba6f8f6d8)
